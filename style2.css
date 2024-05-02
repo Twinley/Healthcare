@@ -1,0 +1,144 @@
+#homepagebtn{
+  margin-bottom: -5%;
+  margin-left: 10%;
+  border-color: green;
+  color: white;
+  background-color: green;
+
+  }
+  #homepagebtn:hover{
+
+    background-color: transparent;
+    color: green;
+  
+  }
+  #homepagebtn2{
+    margin-bottom: -5%;
+    margin-left: 10%;
+    border-color: green;
+  color: white;
+  background-color: green;
+    }
+
+
+  #homepagebtn2:hover{
+
+    background-color: transparent;
+    color: green;
+  }
+
+  .btn{
+    
+    border-radius: 50px;
+    
+    }
+
+    .btn:hover{
+    
+      background-color: green;
+      border-color: green;
+      
+      }
+
+    .btn{
+    
+      border-radius: 50px;
+      
+      background-color: transparent;
+      border-color: green;
+      color: green;
+      }
+
+
+    #homepagebtn3{
+
+      background-color: green;
+
+    color: white;
+
+      margin-top: 50%;
+      margin-left: 40%;
+        
+      }
+
+      #homepagebtn3:hover{
+        border-color: green;
+
+      }
+
+    #drop1{
+      
+      background-color: transparent;
+      color: black;
+      border-color: transparent;
+
+    }
+
+    #drop1:hover{
+
+      background-color: green;
+      color: white;
+
+    }
+  
+
+
+.box{
+  
+  width: 40%;
+  margin-left:60%;
+  height: 500px;
+  padding-bottom: 20%;
+
+  position: absolute;
+
+  background: linear-gradient(0deg, transparent, rgb(0, 42, 255));
+
+
+}
+
+#content{
+
+  
+position: relative;
+}
+
+#boxtext{
+
+  color: white;
+  text-align: center;
+
+    margin-top: 30%;
+  margin-bottom: -45%;
+
+}
+
+
+
+.num{
+ line-height: 1.4;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  margin-top: -1%;
+  margin-left: 60%;
+}
+
+#logo{
+
+ margin-bottom: -25%;
+ margin-left: 40%;
+ margin-top: 5%;
+
+}
+
+.nav-link:hover{
+      
+      
+     
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+
+  
+ 
+ }

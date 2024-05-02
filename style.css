@@ -1,0 +1,192 @@
+body{
+  overflow-x:hidden;
+}
+#btn{
+
+    margin-top: 5%;
+    margin-left: 10%;
+    
+    
+    }
+
+
+    #btn2:hover{
+
+      border-color: transparent;
+    }
+  
+    
+    #btn2{
+
+        border-radius: 50px;
+    
+        background-color: white;
+        border-color: green;
+        color: green;
+    }
+
+    .dropdown-item{
+
+
+      color: green;
+    }
+
+    .dropdown-item:hover{
+
+      background-color: green;
+      color: white;
+
+    }
+  
+
+    
+    .btn{
+    
+    border-radius: 50px;
+    
+    background-color: green;
+    border-color: green;
+    color: white;
+    }
+
+    
+    #text{
+    
+     margin-top: 25%;
+     margin-left: 2%;
+    
+    }
+    
+    #welcome{
+     color: green;
+     margin-bottom: 3%;
+     margin-top: -5%;
+    }
+
+    #contact{
+
+      color: green;
+
+    }
+    h3{
+
+        color: green;
+    }
+    
+    
+    
+    .box2{
+    
+        display: block;
+      
+     background-color: #9DC08B;
+     padding-top: 10%;
+    
+     padding-left: 5%;
+     
+     padding-right: -100% ;
+     padding-bottom: 9.4%;
+    
+     margin-left: 37%;
+     margin-top: -50%;
+     
+    
+    }
+
+ 
+    
+    .navbar{
+    
+     margin-bottom: -10%;
+    } 
+    .nav-link:hover{
+      
+      
+     
+     background-color: green;
+     color: white;
+     border-radius: 5px;
+
+     
+    
+    }
+    
+    .btn:hover{
+    
+     color: green;
+    }
+    
+    .dropdown-menu{
+    
+    color: green;
+    border-color: green;
+    
+    }
+    
+    #text2{
+        
+   
+    
+   
+     color: green;
+    }
+    
+    
+    
+    
+    #link1:visited {
+      color: green;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    #link1:Hover{
+    
+      color:grey;
+      background-color: transparent;
+      text-decoration: none;
+    }
+
+
+
+    #pic2{
+
+        display: block;
+        margin-left: 40%;
+      margin-top: -14.2%;
+
+    }
+
+    #appoint{
+
+        
+        margin-left: -8% ;
+        margin-top: 5%;
+
+    }
+
+ .nav-link:link{
+
+      color: #0174BE;
+    }
+
+    #tel{
+
+      margin-bottom: 3%;
+
+    }
+
+    #maintext{
+
+      text-align: center;
+
+      margin-left: -60%;
+
+    }
+
+  
+ 
+
+    
+   
+    
